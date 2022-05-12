@@ -79,7 +79,6 @@ function draw() {
 }
 
 function splitPolys() {
-  console.log("Splitting polys...");
   let newPolys = [];
   for (var i = 0; i < polys.length; i++) {
     /*
