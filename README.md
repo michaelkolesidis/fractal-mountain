@@ -2,7 +2,7 @@
   <img src="./assets/fractal-mountain-01.gif" width="400px">
   <h1>Fractal Mountain</h1>
   
-  <h3>Landscape created dynamically using Perlin noise.</h3>
+  <h3>A single triangle transforms into a mountain.</h3>
 
   <a href="https://perlin-landscape.netlify.app/"><h3>Try me!</h3></a>
 
