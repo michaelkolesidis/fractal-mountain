@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/fractal-mountain.gif" width="400px">
+  <img src="./assets/fractal-mountain-01.gif" width="400px">
   <h1>Fractal Mountain</h1>
   
   <h3>Landscape created dynamically using Perlin noise.</h3>
