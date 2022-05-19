@@ -29,7 +29,7 @@
 
 <p>A single triangle transforms into a mountain. An equilateral triangle and recursively subdividing it into smaller and smaller triangles. As each triangle is subdivided, each new midpoint generated is raised or lowered by a random amount. Made with p5.js and <a href="https://github.com/spite/ccapture.js/">CCapture.js</a>.</p>
 
-
+<p>Double-click anywhere to enter fullscreen mode, double-click again (or press ESC) to leave fullscreen mode.</p>
 
 ## Screenshot
 
