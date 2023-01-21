@@ -1,16 +1,15 @@
 <div align="center">
   <img src="./assets/fractal-mountain-01.gif" width="400px">
-  <h1>Fractal Mountain</h1>
+  <h1>fractal mountain</h1>
   
-  <h3>A single triangle transforms into a mountain.</h3>
-
-  <a href="https://perlin-landscape.netlify.app/"><h3>Try me!</h3></a>
-
   [![Netlify Status](https://api.netlify.com/api/v1/badges/230b9457-1953-46ba-be24-2eb1fd485983/deploy-status)](https://app.netlify.com/sites/perlin-landscape/deploys)
 
+  <h4>A single triangle transforms into a mountain.</h4>
+
+  <h3><a href="https://perlin-landscape.netlify.app/">Visit</a></h3>
 </div>
   
-  
+
 
 ## Technologies Used
 
@@ -27,9 +26,11 @@
 
 ## Description
 
-<p>A single triangle transforms into a mountain. An equilateral triangle and recursively subdividing it into smaller and smaller triangles. As each triangle is subdivided, each new midpoint generated is raised or lowered by a random amount. Made with p5.js and <a href="https://github.com/spite/ccapture.js/">CCapture.js</a>.</p>
+<p>A single triangle transforms into a mountain. An equilateral triangle and recursively subdividing it into smaller and smaller triangles. As each triangle is subdivided, each new midpoint generated is raised or lowered by a random amount. Made with p5.js.
 
 <p>Double-click anywhere to enter fullscreen mode, double-click again (or press ESC) to leave fullscreen mode.</p>
+
+
 
 ## Screenshot
 
@@ -40,26 +41,7 @@
 
 ## License
 
-<a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" height="100px" /></a>
+<a href="https://www.gnu.org/licenses/agpl-3.0.html"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/AGPLv3_Logo.svg" height="100px" /></a>
 
-Copyright (c) 2022 Michael Kolesidis<br>
-Licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
-
-
-
-<br>
-<br>
-
-
-
-[//]: # (Free Software)
-<div align="center">
-  <br>
-  <br>
-
-  <a href="https://github.com/michaelkolesidis/made-with-linux" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Made_with_Linux.png/240px-Made_with_Linux.png"></a>
-</div>
-<br>                                                      
-<div align="center">
-  <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 90px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
-</div>
+Copyright (c) 2023 Michael Kolesidis<br>
+Licensed under the [GNU Affero General Public License v3.0](https://www.gnu.org/licenses/agpl-3.0.html).
