@@ -26,9 +26,11 @@
 
 ## Description
 
-<p>A single triangle transforms into a mountain. An equilateral triangle and recursively subdividing it into smaller and smaller triangles. As each triangle is subdivided, each new midpoint generated is raised or lowered by a random amount. Made with p5.js.
+A single triangle transforms into a mountain. An equilateral triangle and recursively subdividing it into smaller and smaller triangles. As each triangle is subdivided, each new midpoint generated is raised or lowered by a random amount. Made with p5.js.
 
-<p>Double-click anywhere to enter fullscreen mode, double-click again (or press ESC) to leave fullscreen mode.</p>
+Rotation can be controlled with mouse.
+
+Double-click anywhere to enter fullscreen mode, double-click again (or press ESC) to leave fullscreen mode.
 
 
 
