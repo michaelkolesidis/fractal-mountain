@@ -1,12 +1,7 @@
 <div align="center">
   <img src="./assets/fractal-mountain-01.gif" width="400px">
   <h1>fractal mountain</h1>
-  
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/230b9457-1953-46ba-be24-2eb1fd485983/deploy-status)](https://app.netlify.com/sites/perlin-landscape/deploys)
-
   <h4>A single triangle transforms into a mountain.</h4>
-
-  <h3><a href="https://perlin-landscape.netlify.app/">Visit</a></h3>
 </div>
   
 
